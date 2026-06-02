@@ -1,0 +1,6 @@
+{
+  "name": "OBD Dashboard & Diagnostics",
+  "description": "Android Bluetooth real-time vehicle OBD diagnostics, fuel monitoring, maintenance reminders, and GPS trip tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
